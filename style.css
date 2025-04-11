@@ -5,5 +5,19 @@
 
 body {
   background-color: black;
+  margin: 0px 5vw;
   color: cyan;
+}
+
+header {
+  margin: 0.3rem;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.ruler {
+  height: 0.25rem;
+  width: 100%;
+  border-radius: 100%;
+  background-color: red;
 }
